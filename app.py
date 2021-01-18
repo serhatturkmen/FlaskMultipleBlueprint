@@ -14,4 +14,3 @@ app.register_blueprint(apiBlueprint, url_prefix="/api/v1.0/8897/")
 
 if __name__ == '__main__':
   app.run(host='127.0.0.1', port=8808, debug=True)
- 
